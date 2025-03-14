@@ -1,4 +1,4 @@
-import AbstractUser, { UserInterface } from "./AbstractUser";
+import AbstractUser from "./AbstractUser";
 import { TypeUser } from "./TypeUSer";
 
 export default class NullUser extends AbstractUser {
